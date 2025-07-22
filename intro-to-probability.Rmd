@@ -1,5 +1,9 @@
 ---
-title: "probability"
+title: "Instructor's Guide: Teaching Probability"
+author:
+  - "Emily Bolger, bolgerem@msu.edu"
+  - "Mark Branson, mbranson@stevenson.edu"
+  - "Nathan Alexander, nathan.alexander@howard.edu"
 output: html_document
 date: "2025-07-22"
 ---
@@ -8,22 +12,54 @@ date: "2025-07-22"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+# Overivew
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Students are introduced to the foundations of probability with relevant examples that provide opportunities for instructors to switch between classical mathematical cases and more context-specific examples. Here we provide notes for instructors.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+This document is based on the facilitation guide developed by Bolger and Roca, probability notes by ...., code by all.
 
-```{r cars}
-summary(cars)
-```
+Ref #sec-norms
 
-## Including Plots
+# Learning Objectives
 
-You can also embed plots, for example:
+# Context
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Fair hiring practices and the issue of gender
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+The chapter begins with an example on fair hiring practices.
+
+Describe here the example:
+80 pct men, 20 pct women
+10 slots avail in large company
+
+1. why is the applicant pool skewed differently that the population?
+
+provide resources and mention to students information women's rights (provided references and links to -- use .bib file)
+  
+## Why is this problem important?
+
+
+# Content
+
+2. if the applicants are equally qualified what is the probability of...
+  - hiring a man? hiring a woman?
+
+$$
+
+$$
+
+
+
+# Code
+
+# References
+
+
+
+
+
+
+
+
+
+
